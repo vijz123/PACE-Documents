@@ -12,7 +12,9 @@ Execute: Describes the implementation phase, project monitoring, and evaluation 
 Project Scenarios:
 
 Automatidata: Develop an app for the New York City Taxi and Limousine Commission (TLC) to estimate taxi fares. Includes gathering requirements, assigning PACE stages, and creating a project proposal.
+
 TikTok: Create a machine learning model to classify claims in videos submitted to the platform. Involves analyzing stakeholder needs, assigning PACE stages, and organizing tasks into milestones.
+
 Waze: Build a model to predict user churn for the Waze app. Focuses on defining project goals, organizing tasks, and creating a proposal for the data team.
 
 Key Components:
